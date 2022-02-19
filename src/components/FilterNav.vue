@@ -33,7 +33,7 @@ export default {
     border: none;
     color: #bbb;
     outline: none;
-    font-size: 12px;
+    font-size: 14px;
     text-transform: uppercase;
     margin-right: 10px;
     letter-spacing: 1px;

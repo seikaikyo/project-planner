@@ -44,7 +44,8 @@ export default {
 
 <style>
 .project {
-  margin: 20px auto;
+  margin: 18px auto;
+  font-family: Arial, Helvetica, sans-serif;
   background: white;
   padding: 10px 20px;
   border-radius: 4px;
