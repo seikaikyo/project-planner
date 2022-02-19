@@ -1,22 +1,22 @@
 {
-    "projects": [
-        {
-            "id": 1,
-            "title": "Create new homepage",
-            "details": "Create a new homepage for the website",
-            "complete": false
-        },
-        {
-            "id": 2,
-            "title": "Make marketing campaign",
-            "details": "Look for a company that can help me with the marketing campaign",
-            "complete": true
-        },
-        {
-            "id": 3,
-            "title": "Shopping list",
-            "details": "Buy some products for the shopping list",
-            "complete": false
-        }
-    ]
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage",
+      "details": "Create a new homepage for the website",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make marketing campaign",
+      "details": "Look for a company that can help me with the marketing campaign",
+      "complete": true
+    },
+    {
+      "id": 3,
+      "title": "Shopping list",
+      "details": "Buy some products for the shopping list",
+      "complete": true
+    }
+  ]
 }
