@@ -17,15 +17,24 @@
       "title": "Shopping list",
       "details": "Buy some products for the shopping list",
       "complete": true
-<<<<<<< HEAD
     },
     {
       "title": "Ab ut minus ullamco doloremque quasi dol",
       "details": "Aut eum porro hic in minim",
       "complete": false,
       "id": 4
-=======
->>>>>>> parent of 80f7c64 (Edit)
+    },
+    {
+      "title": "Dicta dolor reiciendis id sit ratione a",
+      "details": "Vitae harum a eveniet explicabo Nisi a",
+      "complete": false,
+      "id": 5
+    },
+    {
+      "title": "Sunt magni amet fugiat aliquam commodo",
+      "details": "Facilis quas ad anim enim",
+      "complete": false,
+      "id": 6
     }
   ]
 }
